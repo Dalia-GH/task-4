@@ -1,0 +1,15 @@
+.team{
+    text-align: center;
+}
+
+p{
+    color: gray;
+}
+.t{
+    
+    float: left;
+    width: 33%;
+}
+.clearfix{
+    clear: left;
+}
